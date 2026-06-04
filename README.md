@@ -43,11 +43,11 @@ Sou um profissional de tecnologia com atuação na área da saúde, combinando e
 
 <div align="center">
 
-![Cristiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisrafaelribeiro&show_icons=true&theme=dark&hide_border=true&locale=pt-br)
+![Cristiano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisrafaelribeiro&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrafaelribeiro&layout=compact&theme=dark&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrafaelribeiro&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=crisrafaelribeiro&theme=dark&hide_border=true&locale=pt_BR)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crisrafaelribeiro&theme=dark&hide_border=true)
 
 </div>
 
