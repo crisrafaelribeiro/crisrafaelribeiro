@@ -4,19 +4,21 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🙋🏻‍♂️ Sobre mim
 
 Sou um profissional de tecnologia com atuação na área da saúde, combinando expertise em sistemas com o propósito de impactar positivamente a vida das pessoas. Trabalho na **Santa Casa de Misericórdia de Porto Alegre**, uma das mais tradicionais instituições hospitalares do Brasil, onde contribuo com soluções tecnológicas para um ambiente crítico e de alto impacto.
 
 - 🏥 Especialista em Sistemas aplicados à área da saúde
 - 💡 Apaixonado por tecnologia com propósito
-- 🌎 Baseado em **Porto Alegre/RS, Brasil**
+- 🌎 De **Canoas/RS, Brasil**
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/cristianorafael/)
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NativePHP](https://img.shields.io/badge/NativePHP-7B61FF?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
