@@ -28,11 +28,12 @@ Sou um profissional de tecnologia com atuação na área da saúde, combinando e
 
 ## 📂 Projetos em Destaque
 
-### 🔊 [sound-pop](https://github.com/crisrafaelribeiro/sound-pop)
-> Projeto desenvolvido em **TypeScript** com foco em interatividade sonora.
+### 💙 [cardio-valve](https://github.com/iscmpa-rs/cardio-valve)
+> App desenvolvido em NativePHP para os especialistas em cardiologia, disponível na Apple Store e Google Play.
+> [Apple Store](https://apps.apple.com/br/app/cardiovalve/id6763352139) / [Google Play](https://play.google.com/store/apps/details?id=br.org.santacasa.cardiovalve&hl=pt_BR)
 
-### 💬 [zapsons](https://github.com/crisrafaelribeiro/zapsons)
-> Aplicação **TypeScript** com integração via WhatsApp para automação de mensagens.
+### ⚙️ [integrador-safety](https://github.com/iscmpa-rs/integrador-safety)
+> Aplicação de integração de dados para pesquisas de satisfação.
 
 ### 🏥 [app-medico-prototipo](https://github.com/crisrafaelribeiro/app-medico-prototipo)
 > Protótipo de aplicação médica em **HTML**, pensada para facilitar processos na área da saúde.
